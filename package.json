@@ -1,0 +1,24 @@
+{
+  "name": "purp-bin-simple",
+  "version": "0.1.0",
+  "description": "A CLI for PureScript that primarily uses psc-package and regular purs commands",
+  "homepage": "https://github.com/justinwoo/npm-purp-bin-simple",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/justinwoo/npm-purp-bin-simple.git"
+  },
+  "main": "index.js",
+  "files": [
+    "install",
+    "purp"
+  ],
+  "scripts": {
+    "install": "./install"
+  },
+  "author": "Justin Woo",
+  "bin": {
+    "purp": "./purp"
+  },
+  "keywords": ["purescript"],
+  "license": "MIT"
+}
