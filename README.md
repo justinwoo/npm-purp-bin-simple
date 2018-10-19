@@ -1,5 +1,7 @@
 # npm-purp-bin-simple
 
+[![npm](https://img.shields.io/npm/v/purp-bin-simple.svg)](https://www.npmjs.com/package/purp-bin-simple)
+
 A simple distribution of purp using NPM. Assumes almost nothing other than Linux/OSX.
 
 npm package link: <http://npmjs.com/package/purp-bin-simple>
