@@ -1,6 +1,6 @@
 {
   "name": "purp-bin-simple",
-  "version": "0.2.0",
+  "version": "1.0.0",
   "description": "A CLI for PureScript that primarily uses psc-package and regular purs commands",
   "homepage": "https://github.com/justinwoo/npm-purp-bin-simple",
   "repository": {
