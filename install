@@ -12,7 +12,7 @@ rm ./purp
 # osx or linux install
 if [ "$(uname -s)" == "Darwin" ]
 then
-  curl --location --output ./purp.tar.gz --silent https://github.com/justinwoo/purp/releases/download/$TAG/macos.tar.gz
+  curl --location --output ./purp.tar.gz --silent https://github.com/justinwoo/purp/releases/download/$TAG/osx.tar.gz
 else
   wget -O ./purp.tar.gz https://github.com/justinwoo/purp/releases/download/$TAG/linux.tar.gz
 fi
